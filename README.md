@@ -46,7 +46,7 @@ I'm a Data Analyst with expertise in data analysis platforms, business intellige
 ## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi788741&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi788741&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
