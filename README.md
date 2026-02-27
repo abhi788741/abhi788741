@@ -53,12 +53,12 @@ I'm a Data Analyst with expertise in data analysis platforms, business intellige
 
 ## 🌱 Currently Learning
 
-• Advanced SQL  
-• Advanced Data Analytics
-• Statistics and Hypotheses Testing
-• Forecasting
-• Machine Learning 
-• Dashboard Optimization  
+- Advanced SQL
+- Advanced Data Analytics
+- Statistics and Hypotheses Testing
+- Forecasting
+- Machine Learning
+- Dashboard Optimization  
 
 ---
 
