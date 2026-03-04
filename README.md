@@ -1,6 +1,6 @@
-# Hello I'm Abhishek Kapure 👋
+# Hello, I'm Abhishek Kapure 👋
 
-I'm a Data Analyst with expertise in data analysis platforms, business intelligence, and programming. Here's brief overview of my skills:
+I'm a Data Analyst with expertise in data analysis platforms, business intelligence, and programming. Here's a brief overview of my skills:
 
 - Python and SQL Programming
 - Jupyter Notebook and Documentation tools
@@ -11,16 +11,34 @@ I'm a Data Analyst with expertise in data analysis platforms, business intellige
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
+### 👾 Programming Languages -
+<p align="left">
+  
+<img src="https://skillicons.dev/icons?i=python,mysql,html" />
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,pycharm" />
+### 🗄️ Databases - 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
-<img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Basic-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+###  📊 Data Analysis & Visualization -
+<p align="left">
+<img src="https://img.shields.io/badge/Advanced-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dashboard-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dashboard-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Platforms -
+<p align="left">
+  
+<img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode" />
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
+### 🤖 AI Tools & Machine Learning Concepts -
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-Basics-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+<img src="https://img.shields.io/badge/AI-Tools-102230?style=for-the-badge&logo=AITools&logoColor=orange"/>
 </p>
 
 ---
@@ -43,14 +61,6 @@ I'm a Data Analyst with expertise in data analysis platforms, business intellige
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi788741&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced SQL
@@ -64,7 +74,11 @@ I'm a Data Analyst with expertise in data analysis platforms, business intellige
 
 ## 🤝 Looking to Collaborate On
 
-Data Analytics Projects, SQL Projects, Python Data Analysis, Excel Reporting, and Dashboard Development.
+- Data Analytics Projects
+- SQL Projects
+- Python Data Analysis
+- Excel Reporting
+- Dashboard Development
 
 ---
 
@@ -79,7 +93,13 @@ Data Analytics Projects, SQL Projects, Python Data Analysis, Excel Reporting, an
 <a href="mailto:kapureabhishek16@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
-
+<a href="https://abhishek-kapure-portfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/abhi788741">abhi788741</a>
+</p>
