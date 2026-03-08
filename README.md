@@ -46,9 +46,10 @@ I'm a Data Analyst with expertise in data analysis platforms, business intellige
 ## 📂 Projects
 
 - HR Employee Attrition Data Analysis (Python, SQL, Excel, Power BI)
-- Retail Sales Analysis & Dashboard (Excel)
+- Supermart Retail Sales Analysis & Dashboard (Excel)
 - Uber Trips Data Analysis (Power BI)
 - Hospital Management System (SQL)
+- Olympics Medals Data Analysis (Python)
 
 ---
 
